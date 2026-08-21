@@ -100,5 +100,5 @@ siap dipakai (model serving via API), dengan pengalaman di structured data
 
 <p align="center">
   <a href="mailto:adib.raihann@gmail.com">Email</a> ·
-  <a href="https://instagram.com/boekanadip">Instagram</a>
+  <a href="https://instagram.com/boekanadib_">Instagram</a>
 </p>
