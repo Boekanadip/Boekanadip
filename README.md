@@ -93,14 +93,6 @@ siap dipakai (model serving via API), dengan pengalaman di structured data
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boekanadip&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boekanadip&layout=compact&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boekanadip&hide_border=true" />
-</p>
 
 ---
 
