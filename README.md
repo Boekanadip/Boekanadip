@@ -22,8 +22,7 @@ Saya fokus membangun sistem machine learning dari eksplorasi data sampai
 siap dipakai (model serving via API), dengan pengalaman di structured data
 (prediksi/klasifikasi) maupun NLP berbahasa Indonesia.
 
-- 🔭 Sedang mengerjakan **Bank Customer Churn Prediction System** - model ML
-  (XGBoost) yang dibungkus FastAPI untuk dikonsumsi tim Software Dev
+- 🔭 Lagi magang aja sih - Belajar banyak hal
 - 🌱 Terus memperdalam **NLP & fine-tuning transformer model** untuk kasus
   Bahasa Indonesia
 - 💬 Terbuka diskusi soal machine learning, data science, dan integrasi
