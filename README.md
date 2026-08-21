@@ -9,7 +9,7 @@
   <a href="mailto:adib.raihann@gmail.com">
     <img src="https://img.shields.io/badge/Email-adib.raihann%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/boekanadip">
+  <a href="https://instagram.com/boekanadib_">
     <img src="https://img.shields.io/badge/Instagram-%40boekanadip-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
