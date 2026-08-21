@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-adib.raihann%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/boekanadib_">
-    <img src="https://img.shields.io/badge/Instagram-%40boekanadip-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%40boekanadib_-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -18,8 +18,8 @@
 
 ### 🧭 Tentang Saya
 
-Saya fokus membangun sistem machine learning dari eksplorasi data sampai
-siap dipakai (model serving via API), dengan pengalaman di structured data
+Saya fokus membangun sistem machine learning dari pengumpulan data sampai
+siap dipakai (model serving via API), dengan skill di structured data
 (prediksi/klasifikasi) maupun NLP berbahasa Indonesia.
 
 - 🔭 Lagi magang aja sih - Belajar banyak hal
@@ -102,6 +102,6 @@ siap dipakai (model serving via API), dengan pengalaman di structured data
     <img src="https://img.shields.io/badge/Email-adib.raihann%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/boekanadib_">
-    <img src="https://img.shields.io/badge/Instagram-%40boekanadip-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%40boekanadib_-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
